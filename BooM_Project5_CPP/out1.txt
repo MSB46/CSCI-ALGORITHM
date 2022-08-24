@@ -1,0 +1,107 @@
+***********Beginning preOrder***********
+
+Color: 5 Upper R: 0 Upper C: 0, NWkid color: 5, NEkid color: 5, SWkid color: 0, SEkid color: 0
+
+Color: 5 Upper R: 0 Upper C: 0, NWkid color: 0, NEkid color: 0, SWkid color: 0, SEkid color: 5
+
+Color: 0 Upper R: 0 Upper C: 0, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 0 Upper C: 16, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 16 Upper C: 0, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 5 Upper R: 16 Upper C: 16, NWkid color: 1, NEkid color: 5, SWkid color: 1, SEkid color: 0
+
+Color: 1 Upper R: 16 Upper C: 16, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 5 Upper R: 16 Upper C: 24, NWkid color: 1, NEkid color: 1, SWkid color: 0, SEkid color: 0
+
+Color: 1 Upper R: 16 Upper C: 24, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 1 Upper R: 16 Upper C: 28, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 20 Upper C: 24, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 20 Upper C: 28, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 1 Upper R: 24 Upper C: 16, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 24 Upper C: 24, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 5 Upper R: 0 Upper C: 32, NWkid color: 0, NEkid color: 0, SWkid color: 5, SEkid color: 0
+
+Color: 0 Upper R: 0 Upper C: 32, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 0 Upper C: 48, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 5 Upper R: 16 Upper C: 32, NWkid color: 1, NEkid color: 0, SWkid color: 1, SEkid color: 0
+
+Color: 1 Upper R: 16 Upper C: 32, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 16 Upper C: 40, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 1 Upper R: 24 Upper C: 32, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 24 Upper C: 40, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 16 Upper C: 48, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 32 Upper C: 0, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 32 Upper C: 32, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+***********preOrder complete***********
+
+***********Beginning postOrder***********
+
+Color: 0 Upper R: 0 Upper C: 0, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 0 Upper C: 16, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 16 Upper C: 0, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 1 Upper R: 16 Upper C: 16, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 1 Upper R: 16 Upper C: 24, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 1 Upper R: 16 Upper C: 28, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 20 Upper C: 24, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 20 Upper C: 28, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 5 Upper R: 16 Upper C: 24, NWkid color: 1, NEkid color: 1, SWkid color: 0, SEkid color: 0
+
+Color: 1 Upper R: 24 Upper C: 16, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 24 Upper C: 24, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 5 Upper R: 16 Upper C: 16, NWkid color: 1, NEkid color: 5, SWkid color: 1, SEkid color: 0
+
+Color: 5 Upper R: 0 Upper C: 0, NWkid color: 0, NEkid color: 0, SWkid color: 0, SEkid color: 5
+
+Color: 0 Upper R: 0 Upper C: 32, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 0 Upper C: 48, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 1 Upper R: 16 Upper C: 32, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 16 Upper C: 40, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 1 Upper R: 24 Upper C: 32, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 24 Upper C: 40, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 5 Upper R: 16 Upper C: 32, NWkid color: 1, NEkid color: 0, SWkid color: 1, SEkid color: 0
+
+Color: 0 Upper R: 16 Upper C: 48, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 5 Upper R: 0 Upper C: 32, NWkid color: 0, NEkid color: 0, SWkid color: 5, SEkid color: 0
+
+Color: 0 Upper R: 32 Upper C: 0, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 0 Upper R: 32 Upper C: 32, NWkid color: NULL, NEkid color: NULL, SWkid color: NULL, SEkid color: NULL
+
+Color: 5 Upper R: 0 Upper C: 0, NWkid color: 5, NEkid color: 5, SWkid color: 0, SEkid color: 0
+
+***********postOrder complete***********
